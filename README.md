@@ -1,6 +1,6 @@
 # Flipkart Ui Clone
 
-This is flipkart ui clone web application..🔗
+This is flipkart ui clone web application mainly focused on API integrated products and details..🔗
 
 ## Technologies used 🛠️
 
