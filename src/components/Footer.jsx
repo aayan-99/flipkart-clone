@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className="mt-8 bg-blue-600 flex justify-evenly items-center h-[30vh]">
+    <div className="mt-8 bg-blue-600 flex justify-evenly items-start pt-[50px] h-[30vh]">
       <div>
         <p className="text-lg font-semibold text-gray-900">About</p>
         <li className="no-underline list-none text-white">Contact Us</li>

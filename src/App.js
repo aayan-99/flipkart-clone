@@ -11,6 +11,7 @@ import Home from "./components/Home.jsx";
 import ProductDetails from "./components/ProductDetails";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import Cart from "./components/Cart";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           path="/productDetails"
           element={<ProductDetails />}
         ></Route>
+        <Route exact path="/cart" element={<Cart />}></Route>
       </Routes>
       <Footer />
     </Router>

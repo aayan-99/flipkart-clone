@@ -23,7 +23,7 @@ const ProductDetails = () => {
     <div>
       <div className="w-12 inline-block ml-4 mt-4">
         <Link className="text-xl font-bold underline" to="/">
-          Back
+          <HiArrowNarrowLeft />
         </Link>
       </div>
       <div className="h-[80vh] flex  justify-center items-center">
